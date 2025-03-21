@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 README.md
-wave Hi, I’m @amanhemant01 and my Name is Hemant
+wave Hi, My Name is Hemant
 eyes I’m interested in learning and working with DevOps Tool Chains
 seedling I’m currently learning Jenkins, Docker, Kubernetes, Ansible, Monitoring and Shell Scripting
 revolving_hearts I’m looking to collaborate on all shorts of DevOps Work
-mailbox How to reach me amanhemant01@gmail.com or any social media my handle everywere is amanhemant01
+mailbox How to reach me ht.hemant.tiwari@gmail.com or any social media my handle everywere is amanhemant01
